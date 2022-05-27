@@ -1,1 +1,2 @@
 Criação arquivo b.txt
+Novo conteúdo para b.txt
